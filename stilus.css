@@ -1,0 +1,48 @@
+body{
+    background-image:url("hatterem1.jpg");
+    color:white;
+    font-size:10px;
+
+}
+#tarolo{
+    background-color:#20a1b363;
+	max-width: 700px;
+    margin:auto;
+}
+.elem img{
+    float:right;
+    padding:5px;
+    border-bottom:2px groove;
+    padding-bottom:10px;
+}
+.elem2 img{
+    float:left;
+    padding:5px;
+    border-bottom:2px groove;
+    padding-bottom:10px;
+}
+h1 {
+    font-size:40px;
+    text-align:center;
+    padding: 6px;
+}
+h2{
+    font-size:30px;
+    text-align:left;
+    padding:6px;
+}
+p {
+   font-size:medium;
+    font-family:'Times New Roman', Times, serif;
+}
+.sz.balra{
+    float:left;
+    margin:10px;
+}
+.sz.jobbra{
+    float:right;
+    margin:10px;
+}
+.torles{
+    clear:both;
+}
